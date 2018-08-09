@@ -1,5 +1,5 @@
 {
-  "name": "cross-storage",
+  "name": "@mkazlauskas/cross-storage",
   "version": "1.0.0",
   "description": "Cross domain local storage",
   "keywords": [
