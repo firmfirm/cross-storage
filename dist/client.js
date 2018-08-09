@@ -461,4 +461,4 @@
     });
   }
   root.CrossStorageClient = CrossStorageClient;
-}(this));
+}(this || window));
